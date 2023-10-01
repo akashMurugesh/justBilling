@@ -1,0 +1,24 @@
+{
+  "name": "justbilling",
+  "productName": "Just Billing",
+  "version": "1.0.0",
+  "description": "A simple billing desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashMurugesh/justBilling.git"
+  },
+  "author": "Akash Murugesh K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akashMurugesh/justBilling/issues"
+  },
+  "homepage": "https://github.com/akashMurugesh/justBilling#readme",
+  "dependencies": {
+    "electron": "^26.2.4",
+    "toastify-js": "^1.12.0"
+  }
+}

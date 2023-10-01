@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# OS or Editor files
+.DS_Store
+.vscode/
+*.swp
+*~
